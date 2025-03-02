@@ -1,5 +1,5 @@
 # YouTube_transcript_summary
-## Demo video of the project (built on Gradio Interface) :
+Demo video of the project (built on Gradio Interface) :
 
  
 
